@@ -1,0 +1,11 @@
+* Thinkpad T440p sample kernel confing
+
+To use run =mv config .config= to rename the file, and then move it to the folder you downloaded the 
+sources of the kernel. (e.g. =/usr/src/linux/=). 
+
+After that run =make menuconfig= to fine tune your parameters. Most of the main things are already 
+set up in this =.config= file. 
+
+- graphics (intel card)
+- wifi (intel 7260 module)
+- sound card
