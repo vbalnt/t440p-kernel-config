@@ -9,3 +9,4 @@ set up in this =.config= file.
 - graphics (intel card)
 - wifi (intel 7260 module)
 - sound card
+- thinkpad extensions
