@@ -10,3 +10,5 @@ set up in this =.config= file.
 - wifi (intel 7260 module)
 - sound card
 - thinkpad extensions
+
+*Note* This config is for the =gentoo-sources= patched kernel. 
